@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anupam-kushwaha
+- 👋 Hi, I’m Anupam Kushwaha
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on some cool stuff.
