@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on some cool stuff.
+- 🌐 My prefered language is Java.
 - 📫 You can reach out to me on linkedin - [https://www.linkedin.com/in/anupam-kushwaha]
 
 <!---
